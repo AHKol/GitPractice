@@ -3,5 +3,6 @@ HIJK
 LMNOP
 QRS
 WX
+YZ
 Now I know my ABCs
 Next time wont you sing with me
